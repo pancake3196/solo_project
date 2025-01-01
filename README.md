@@ -35,7 +35,7 @@
 ## 실행 방법
 1. **해당 url을 입력**
     ```bash
-   git clone https://github.com/yourusername/mbti-test.git](https://mellow-dango-2a334c.netlify.app/
+  https://mellow-dango-2a334c.netlify.app/](https://mellow-dango-2a334c.netlify.app/
     ```
 
 3. **결과 공유**
