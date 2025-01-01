@@ -34,9 +34,9 @@
 
 ## 실행 방법
 1. **해당 url을 입력**
-    ```bash
+
   https://mellow-dango-2a334c.netlify.app/](https://mellow-dango-2a334c.netlify.app/
-    ```
+
 
 3. **결과 공유**
     - 테스트를 완료한 후, 화면에 표시되는 공유 버튼을 클릭하여 결과를 다른 사람들과 쉽게 공유할 수 있습니다.
