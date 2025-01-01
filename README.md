@@ -33,7 +33,7 @@
 
 
 ## 실행 방법
-1. **해당 url을 입력**
+1. **해당 url을 클릭**
    
 https://mellow-dango-2a334c.netlify.app/
 
